@@ -1,0 +1,4 @@
+# EndHardcoreRevive configuration
+# How many hours a player stays disabled after dying in a hardcore world.
+# After this time they are automatically revived and can join hardcore again.
+disabled-hours: 24
